@@ -140,8 +140,8 @@ How the service is actually delivered. The method is proven on [one real record]
 | [Brand and messaging](./brand/positioning.md) | The promise and its accountability forms |
 | [Language guide](./brand/language.md) | Words to use and avoid |
 | [Founder story](./brand/founder-story.md) | Credibility and origin |
-| [Website strategy](./website/strategy.md) | Navigation + the landing-page backlog |
-| [The first page](./website/homepage.md) | The one page that ships before anything is sold |
+| [Website](./website/summary.md) | **Draft copy for every page**, and what blocks publishing |
+| [Site architecture](./website/strategy.md) | What the site must prove, three readers, full page inventory |
 | [Data sovereignty](./trust/data-sovereignty.md) | Privacy commitments |
 | [Regulatory boundary](./trust/regulatory-boundary.md) | Record management, not clinical advice |
 
@@ -157,7 +157,7 @@ How the service is actually delivered. The method is proven on [one real record]
 - **Compliance and mandate absent.** No UK GDPR basis, DPIA, processor arrangements, retention policy, or authority to act for another person. Specialist advice carries external lead time — [start here](./legal/compliance.md).
 - **Nothing to show.** The [sample pack](./operations/sample-pack.md) has to be cut from the existing record.
 - **No fixed offer, and nowhere to put it.** One price, one scope, one honest timeline — see [the sales motion](./go-to-market/sales-motion.md) — published on [one page](./website/homepage.md).
-- **No web presence.** A service asking for the most sensitive data a person holds fails the search anyone runs before replying.
+- **No web presence.** A service asking for the most sensitive data a person holds fails the search anyone runs before replying, and a partner cannot diligence what does not exist — see [site architecture](./website/strategy.md).
 
 **Not blocking:**
 

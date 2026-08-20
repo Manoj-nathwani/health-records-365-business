@@ -52,13 +52,13 @@ flowchart LR
 1. **Start the legal gate.** Engage specialist UK data-protection advice and get [insurance](./legal/liability.md) quotes moving. It is first only because it has a queue — everything else can proceed while it runs.
 2. **Talk to [Sojourner's Capital](./go-to-market/sojourners-capital.md).** Costs nothing, risks nothing, and answers the highest-value question available: *does medical history come up with your clients, unprompted or never?* Their answer reshapes the plan either way. **No referral ask.**
 3. **Cut the [sample pack](./operations/sample-pack.md)** from the existing record.
-4. **Ship [the first page](./website/homepage.md).** One page. A service handling the most sensitive data a person holds cannot have no web presence — it fails the search anyone does before replying, and no partner can point a client at nothing.
+4. **Start the site.** The credibility set first — home, how it works, what you get, pricing, about, trust and data, and the legal footer. See [site architecture](./website/strategy.md). A service handling the most sensitive data a person holds cannot have no web presence, and [Sojourner's](./go-to-market/sojourners-capital.md) will assess panel admission partly from it.
 
 ## The phases
 
 | | What | Gate to pass |
 | --- | --- | --- |
-| **1. Sellable** | [Legal gate](./legal/compliance.md), [sample pack](./operations/sample-pack.md), a fixed [offer](./go-to-market/sales-motion.md) on [one page](./website/homepage.md) | A chartered firm's diligence would not stop you |
+| **1. Sellable** | [Legal gate](./legal/compliance.md), [sample pack](./operations/sample-pack.md), a fixed [offer](./go-to-market/sales-motion.md), and the [credibility page set](./website/strategy.md) | A chartered firm's diligence would not stop you |
 | **2. Proven** | 3–5 customers at full price from [warm network and communities](./go-to-market/first-customers.md) | **One stranger pays** |
 | **3. Carried** | [Sojourner's panel](./go-to-market/sojourners-capital.md), then five more firms | **A partner sends someone** |
 | **4. Repeatable** | More partners, [landing pages](./website/strategy.md), tooling per edge case | Partner-originated customers arrive without chasing |
@@ -81,7 +81,7 @@ Each of these is more comfortable than selling, which is what makes them dangero
 - **Do not build a customer-facing product.** Tooling follows real edge cases from real customers.
 - **Do not build a publishing system.** Two pieces of writing, posted where publishing already works — see [publishing](./go-to-market/publishing.md).
 - **Do not ask advisers for referrals yet.** Research conversations, yes.
-- **Do not build a second page.** [One](./website/homepage.md) is necessary; the [thirteen-route backlog](./website/strategy.md) is a gate-4 concern.
+- **Do not build situation pages to fill the nav.** One per situation there is something specific to say about — see [site architecture](./website/strategy.md). Thin pages read as less serious than fewer deep ones.
 - **Do not hire.**
 
 ## Related

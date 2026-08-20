@@ -1,64 +1,151 @@
 ---
-title: The first page
-description: The single page that ships before anything is sold — what it has to do, what goes on it, and why the price is published.
+title: Home — page copy
+description: Draft copy for the homepage.
 tags:
   - website
   - copy
-  - homepage
-status: active
+status: draft
+route: /
 ---
-# The first page
+# Home — page copy
 
-**One page. Not a site, not a funnel, not thirteen [landing pages](./strategy.md).**
+Structure and rationale: [site architecture](./strategy.md).
 
-## What it is for
+---
 
-Not conversion. Three jobs, all about credibility:
+## Hero
 
-1. **Survive being checked.** Somebody handed a name will search it. A service asking for the most sensitive data a person holds, with no web presence, reads as a scam — particularly in expat communities, where scams are common and people are primed for them.
-2. **Hold the offer.** One price, one scope, one honest timeline needs somewhere to live.
-3. **Give a partner something to point at.** [Sojourner's Capital](../go-to-market/sojourners-capital.md) cannot put a client in front of a firm with no website, and panel admission will assume one.
+# Your providers manage their records. We manage your medical history.
 
-Design against *"does this look like a real, serious, trustworthy operation"* — not against conversion rate. There is no traffic to convert yet.
+Your GP, your hospitals, the private clinics you have used and the doctors you see abroad each hold a piece of your history. Nobody holds the whole thing, and nobody is responsible for it.
 
-## What goes on it
+Health Records 365 collects it, makes sense of it, and keeps it that way.
 
-| Section | Content |
-| --- | --- |
-| **Headline** | The [accountability position](../market/differentiation.md), not continuity — *your providers manage their records; we manage your medical history* |
-| **The problem** | Two sentences. Fragmentation across providers and countries, and nobody responsible for the whole |
-| **What you actually get** | Concrete components from [the deliverable spec](../operations/deliverable-spec.md), with the [sample pack](../operations/sample-pack.md) shown or linked |
-| **Who it is for** | The [qualifying combination](../go-to-market/launch-wedge.md) — and plainly, **who it is not for** |
-| **Price** | Published. See below |
-| **Timeline** | Months, not weeks — records arrive on providers' schedules. Say it here so it is never a surprise |
-| **What we do not do** | No diagnosis, no treatment advice, not a replacement for a doctor — [the regulatory boundary](../trust/regulatory-boundary.md) |
-| **Your data** | Where it lives, that originals are preserved, that the whole record is exportable — [data sovereignty](../trust/data-sovereignty.md) |
-| **Who is behind it** | Named, with credentials — [founder story](../brand/founder-story.md). A named person with a verifiable history is the strongest trust signal available |
-| **Contact** | A way to reach a human. Not only a form |
+**[See what you get]** **[How it works]**
 
-## Publish the price
+---
 
-Most service businesses hide it behind "get in touch". Publish it.
+## The problem
 
-- **It disqualifies early.** Anyone for whom £995 is shocking self-selects out before taking up time
-- **It removes the conversation the founder is worst at.** The number is already known by the time anyone makes contact, so no negotiation opens cold
-- **It signals confidence**, and confidence is what a stranger is assessing on a page like this
-- **It sets the [anchor](../commercial/pricing.md) against the exit budget** rather than against a £399 records pack
+## Healthcare is delivered one appointment at a time. Nobody is keeping track of the whole story.
 
-## The register
+A referral is made and no outcome is ever recorded. A repeat test is recommended and never booked. A result comes back abnormal and the follow-up goes to an address you left two years ago.
 
-Per [the language guide](../brand/language.md): no technical vocabulary, no wellness language, **no fear**. The tone is calm and specific. Say what happens, what it costs, how long it takes and what it will not do.
+None of that is anybody's fault, and none of it gets caught — because no single practice, hospital or health system is responsible for your history across all of them.
 
-## What it does not need
+Move country and it stops being a background problem. Your new doctor starts from nothing.
 
-Blog, newsletter signup, testimonials carousel, live chat, analytics stack, per-country pages. Those come after somebody has paid — the [full site architecture](./strategy.md) is a gate-4 concern.
+**[Why records go missing →]**
 
-## Check first
+---
 
-That `health-records-365.com` is actually registered and available to use.
+## What we do
 
-## Related
+### Build your medical history
 
-- [Website strategy](./strategy.md) — the eventual fuller site
-- [The sales motion](../go-to-market/sales-motion.md)
-- [Brand and messaging](../brand/positioning.md)
+We request your records from every provider who holds them — NHS, private, overseas — and reconstruct what actually happened, in order, with the original documents kept underneath.
+
+**From £995 · [More →]**
+
+### Keep it current
+
+New consultations, results and letters get added as they happen. Unresolved threads stay tracked until they close.
+
+**£795 a year · [More →]**
+
+### Prepare it for care
+
+Before a new specialist, a second opinion or treatment abroad, we prepare the history that particular doctor needs — not the whole archive.
+
+**[More →]**
+
+---
+
+## Where to start
+
+**I am leaving the UK** — take your history with you before your access to it changes. **[→]**
+
+**I already live abroad** — bring your old UK records and your new overseas ones back together. **[→]**
+
+**My records are a mess** — years of appointments across different providers, and no clear picture. **[→]**
+
+---
+
+## What you receive
+
+A readable history of what has happened to you, organised so a doctor can use it in ten minutes and you can understand it in twenty.
+
+- **A current summary** — what matters about your health today
+- **A history over time** — events connected across providers and years, not a pile of letters
+- **Unresolved items** — follow-ups with no recorded outcome, investigations that stopped midway, tests recommended and never done
+- **Long-term results** — the same measurement across years and laboratories, in one place
+- **Medications, vaccinations, allergies** — current and historical
+- **Every original document**, kept and traceable from the claim it supports
+
+**[Read a real example →]**
+
+---
+
+## How it works
+
+**1. We map what should exist.** A conversation about where you have had care — including the practices and clinics you have half-forgotten.
+
+**2. We request all of it.** Formal requests to every provider on that list, and we chase the ones that go quiet.
+
+**3. We reconstruct it.** Documents become a history: events connected, contradictions surfaced rather than smoothed over, uncertainty left as uncertainty.
+
+**4. We hand it to you.** Yours to keep, export and give to any doctor, in any country.
+
+**[The method in full →]**
+
+---
+
+## What this costs
+
+**£995** to build your history. **£795 a year** to keep it current. No subscription required to keep what you have already paid for.
+
+**[Full pricing →]**
+
+---
+
+## What we do not do
+
+We do not diagnose, recommend treatment, or tell you which tests to have. We are not a replacement for a doctor and we do not give medical advice.
+
+We organise the record and show you what it says — including where it is incomplete, contradictory, or has left something unfinished. What to do about that is between you and a clinician.
+
+**[Our limits, in full →]**
+
+---
+
+## Who is behind this
+
+Health Records 365 was founded by **Manoj Nathwani**, a British software engineer who has spent his career building health systems — including a national telemedicine service in Rwanda, and work with NHS England, the World Health Organization, UNAIDS and the Gates Foundation.
+
+It exists because of a more ordinary experience: reconstructing his own medical history after years across the NHS, private clinics and three countries, and finding that a colonoscopy he was owed had been quietly lost to an out-of-date address.
+
+**[About →]**
+
+---
+
+## Your records stay yours
+
+Held in the UK. Exportable in full, at any time, in a format that does not need us to read it. Originals preserved, never replaced by summaries. Delete it and it is gone.
+
+**[How we handle your data →]**
+
+---
+
+## Get started
+
+A short conversation first — what you have, where you have been treated, and whether this is worth doing for you. Some people do not need us, and we will say so.
+
+**[Start a conversation]**
+
+---
+
+## Notes
+
+- **Prices are unconfirmed.** £995 and £795 are drawn from the [test range](../commercial/pricing.md); settle them before publishing.
+- **The Babyl figures are deliberately omitted** — the specific consultation and user counts need [a citable source](../brand/founder-story.md) before they appear publicly. The generic description does not.
+- Every claim here stays inside [the regulatory boundary](../trust/regulatory-boundary.md). Nothing asserts a customer count, because there is not one.
