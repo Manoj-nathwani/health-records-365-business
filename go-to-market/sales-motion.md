@@ -23,6 +23,8 @@ Past behaviour predicts payment; stated interest does not. Someone who cannot re
 
 **Then show, do not describe.** The [sample pack](../operations/sample-pack.md) is the pitch. A real record, opened and scrolled through, does more than any explanation of what the service does.
 
+**Run the framing experiment on every early conversation.** Pitch [concierge-led](../commercial/concierge-led.md) to some prospects and record-led to others, and log which framing closes — the first customers are the test.
+
 ## What can honestly be promised
 
 Records are obtained by formal data request to every provider, including the NHS. That has a **statutory response window that has to be confirmed and then built into the promise** — see [the retrieval playbook](../operations/retrieval-playbook.md).

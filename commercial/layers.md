@@ -17,7 +17,7 @@ There are **only three actual commercial products**. Everything else is an acqui
 | --- | --- | --- |
 | **1 — Build my medical history** | Collect, retrieve, reconstruct and establish the baseline record | One-off |
 | **2 — Keep my medical history current** | Ongoing retrieval, reconciliation, open-item maintenance and incorporation of new healthcare | Recurring |
-| **3 — Prepare my medical history for care** | Produce the relevant history for a new doctor, specialist, move abroad, second opinion, procedure or treatment abroad | Episodic |
+| **3 — Prepare and navigate** | Produce the relevant history for whatever care comes next — and [navigate it](../product/navigation.md): research the options, plan the visits, script the appointments, make the bookings, bring the outcomes back | Episodic, and the premium-tier content |
 
 This matches [VITALL's](../market/competitors/vitall.md) validated **acquire → maintain** shape, with a third preparation product on top.
 

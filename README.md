@@ -20,7 +20,8 @@ The differentiator is **accountability**, not capability. Nearly every feature i
 
 ## Start here
 
-- [Gameplan](./gameplan.md) — **what to build next, in what order**
+- [The identity question](./strategy/identity.md) — **what business this is — the open decision**
+- [Gameplan](./gameplan.md) — what to build next, in what order
 - [North star and category](./strategy/north-star.md) — what the company is for
 - [Differentiation](./market/differentiation.md) — what compounds
 - [The stewardship system](./product/stewardship-system.md) — how accountability is operationalised
@@ -42,6 +43,7 @@ Every doc cites the source sections behind it. The two source documents live in 
 | [The core operating loop](./strategy/operating-loop.md) | Collect → … → Update |
 | [Strategic principles](./strategy/principles.md) | The standing decisions |
 | [Interoperability](./strategy/interoperability.md) | Why the NHS Single Patient Record is a tailwind |
+| [Clinical capability](./strategy/clinical-capability.md) | The ladder from stating the record to employing clinicians |
 | [What we are not](./strategy/what-we-are-not.md) | Explicit non-goals |
 
 ## Product
@@ -49,6 +51,8 @@ Every doc cites the source sections behind it. The two source documents live in 
 | Doc | Covers |
 | --- | --- |
 | [The stewardship system](./product/stewardship-system.md) | The per-customer source map — the core asset |
+| [Health navigation](./product/navigation.md) | The independent planner over the record — research, itineraries, scripts, bookings |
+| [The record review](./product/record-review.md) | A partnered GP consultation over the completed record |
 | [Open and unresolved history](./product/open-loops.md) | The maintained lifecycle |
 | [Inputs](./product/inputs.md) | What the service takes in |
 | [Outputs](./product/outputs.md) | What it maintains for every customer |
@@ -84,6 +88,7 @@ Every doc cites the source sections behind it. The two source documents live in 
 | [The three commercial products](./commercial/layers.md) | Build / keep current / prepare for care |
 | [Core offerings](./commercial/offerings.md) | Eight entry points into those three |
 | [Pricing hypotheses](./commercial/pricing.md) | Price tests and the competitive ladder |
+| [Concierge-led selling](./commercial/concierge-led.md) | Live hypothesis: navigation leads the sell, the record is the engine |
 | [Business model thesis](./commercial/business-model.md) | Premium service first |
 | [The retention loop](./commercial/retention-loop.md) | How a maintained history compounds |
 
