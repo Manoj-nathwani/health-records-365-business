@@ -1,0 +1,50 @@
+# GitHub Pages configuration.
+#
+# Purpose: publish this knowledge base as a readable site (mobile-friendly).
+# The relative `.md` links throughout the KB are rewritten to their HTML URLs
+# by jekyll-relative-links, and each folder's README.md becomes that folder's
+# index page via jekyll-readme-index. Both plugins are enabled by default on
+# GitHub Pages; they are listed here so a local `bundle exec jekyll serve`
+# behaves identically.
+
+title: Health Records 365
+description: >-
+  Working knowledge base — strategy, product, market, commercial,
+  go-to-market, brand, website and trust.
+
+# Project site: https://manoj-nathwani.github.io/health-records-365-business/
+# Clear this (and set `url`) if the site ever moves to a custom domain.
+baseurl: /health-records-365-business
+
+theme: jekyll-theme-primer
+
+plugins:
+  - jekyll-relative-links
+  - jekyll-readme-index
+  - jekyll-optional-front-matter
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+
+relative_links:
+  enabled: true
+  collections: false
+
+readme_index:
+  enabled: true
+  remove_originals: false
+  with_frontmatter: true
+
+# Every doc gets the site layout. Explicit, so nothing depends on
+# jekyll-default-layout's fallback chain.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - opencode.json
+  - .okignore
+  - Gemfile
+  - Gemfile.lock
+  - vendor
