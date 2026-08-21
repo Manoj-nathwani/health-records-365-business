@@ -59,9 +59,9 @@ What comes out of the appointment goes back into your history — the letter, th
 
 ## What it costs
 
-Included if you [keep your history current](./keep-it-current.md) with us.
+Included in [membership](./keep-it-current.md) — preparation is half of what membership is for.
 
-Otherwise priced per preparation, depending on how much has changed since we last saw your record.
+Available separately if you are not a member, priced per preparation depending on how much has changed since we last saw your record. It is also how most non-members discover what membership does.
 
 **[Full pricing →]**
 

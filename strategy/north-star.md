@@ -1,82 +1,74 @@
 ---
-title: North star and category
-description: "The job Health Records 365 exists to own: continuity of a personal medical history across providers, systems and countries."
+title: North star and identity
+description: "What Health Records 365 is: an independent medical office, minus the medicine, for people whose healthcare spans providers and countries."
 tags:
   - strategy
   - positioning
   - north-star
+  - identity
 status: canonical
 ---
-# North star and category
+# North star and identity
 
-> **Your medical history, managed wherever life takes you.**
+> **Your healthcare, handled — wherever life takes you.**
 
-Source: [Master Business Blueprint](../Inbox/health-records-365-business-blueprint.md) §§1, 2, 41, 42.
+Sources: [the identity decision](./identity.md); [Master Business Blueprint](../Inbox/health-records-365-business-blueprint.md) §§1, 2, 41, 42; [Competitive Research](../Inbox/health-records-365-competitive-research.md) §27.
+
+## What this company is
+
+**Health Records 365 is an independent medical office for people whose healthcare spans providers, systems and countries.**
+
+We do not diagnose, treat, or decide what a result means. We do everything around the medicine:
+
+1. **Build the record.** Collect everything from every provider who holds a piece — NHS, private, overseas, the customer's own papers — and reconstruct what actually happened, with evidence preserved and uncertainty kept honest
+2. **Keep it current.** New care absorbed as it happens; unresolved threads tracked until something closes them
+3. **Plan what is next.** What is lingering in the record — the test never done, the referral without an outcome — and what acting on each would involve
+4. **Arrange the care.** [Research, book and sequence](../product/navigation.md) appointments at real facilities, in whatever country the customer is in, with no commission from anyone we send them to
+5. **Prepare the handover.** The history a clinician needs, [built to be taken seriously](../product/navigation.md) — sourced, organised, readable in ten minutes
+6. **Bring the outcomes home.** Results and letters return to the record, loops close, and the next plan is better informed
+
+| Layer | Face |
+| --- | --- |
+| The record | The foundation — nothing else works without it |
+| Stewardship | The relationship — [membership](../commercial/layers.md), kept current |
+| [Navigation](../product/navigation.md) | The experienced service — planning and arranging [episodes of care](../product/navigation.md) |
+| [Partnered clinical](../product/record-review.md) | The completion — a GP who has read the file, under their own registration |
 
 ## The job to own
 
-Healthcare records are organised around healthcare providers, not around the person. A GP holds one part of the story. Hospitals hold another. Private specialists, laboratories, screening providers, insurers and overseas providers may each hold separate pieces. Important context also sits outside formal records: old letters, family history, vaccination records, genetic summaries, patient-reported history and documents the patient kept themselves.
+Healthcare is organised around providers, not people. A GP holds one part of the story, hospitals another, overseas clinics a third — and when someone leaves the system that nominally coordinated their care, **nobody owns it at all**.
 
-For someone with years or decades of healthcare behind them, there may never be one institution that holds the complete longitudinal story.
+> **We are the office that owns it — everything except the medicine.**
 
-**Health Records 365 exists to become the continuity layer around the individual.**
+Providers will change. Countries will change. Insurance will change. Technology will change.
 
-Providers will change. Countries will change. Insurance will change. Hospitals will change. Technology will change.
-
-**The patient's medical history should not start over each time.**
+**The patient's healthcare should not start over each time.**
 
 ## The category
 
-> **Personal medical-history management across providers and countries.**
+> **An independent medical office, minus the medicine — personal healthcare management across providers and countries.**
 
-A useful internal description — for product thinking, not customer-facing marketing:
+The central idea is unchanged from the record era and now carries more:
 
-> **The personal health workspace for people whose healthcare spans countries and providers.**
-
-The central idea:
-
-> **Healthcare is delivered encounter by encounter. Health Records 365 keeps track of the whole story.**
-
-## The eight things we do for customers
-
-1. **Collect** records from the places where care has happened.
-2. **Preserve** the original evidence.
-3. **Reconstruct** what happened over time.
-4. **Connect** related events across providers and years.
-5. **Reconcile** uncertainty, contradictions and changing clinical opinions.
-6. **Surface** unresolved threads, missing outcomes and long-term patterns.
-7. **Maintain** the history as new healthcare happens.
-8. **Use** the history for future doctors, specialists, moves and treatment.
-
-See [the operating loop](./operating-loop.md) for how these sequence internally.
+> **Healthcare is delivered encounter by encounter. Health Records 365 keeps track of the whole story — and handles what comes next.**
 
 ## The business in one paragraph
 
-**Health Records 365 is a premium personal medical-history management service for people whose healthcare is fragmented across providers, systems or countries. It collects records from NHS, private and overseas care; preserves the original evidence; reconstructs episodes of care and long-term results; keeps uncertainty and contradictions visible; identifies unresolved threads; and maintains the history as new healthcare happens. Customers can use the resulting record to understand their past, prepare for future providers and preserve continuity as they move through different healthcare systems. The initial commercial wedge is affluent British people leaving the UK, reached through advisers already involved in international relocation, while ongoing record management creates the long-term customer relationship and recurring revenue.**
-
-## The definition
-
-> **Health Records 365 is a managed medical-history service that obtains, organises and continuously maintains your health record across doctors, hospitals and countries.**
-
-([Competitive Research](../Inbox/health-records-365-competitive-research.md) §27.)
-
-The competitive contrast:
-
-> **Your providers manage their records. Health Records 365 manages your medical history.**
-
-The most important word is **responsibility** — see [differentiation](../market/differentiation.md). Providers manage their own records; software products give customers tools to manage their own records; we take responsibility for maintaining the history across all of them.
+**Health Records 365 is an independent medical office — minus the medicine — for people whose healthcare is fragmented across providers, systems or countries. It builds the complete medical record from NHS, private and overseas care; keeps it current; identifies what was left unfinished; plans and arranges the next episode of care at real facilities wherever the customer lives; prepares their history so any clinician can take it seriously in minutes; and brings every outcome back into the record. It never diagnoses and takes no commission from any provider. The initial commercial wedge is affluent British people leaving the UK, reached directly and through the advisers already handling their move, with an annual membership as the long-term relationship.**
 
 ## Framing to hold onto
 
-The business should feel like a **premium personal medical-history management service**, not a software subscription. The customer should be able to say:
+The business should feel like a **premium personal office**, not a software subscription. The customer should be able to say:
 
-> **Health Records 365 manages my medical history.**
+> **Health Records 365 handles my healthcare.**
 
-It is not fitness, wellness or biohacking. It is not primarily an NHS export service, a document folder or an AI chatbot — see [what we are not](./what-we-are-not.md).
+And we should always be able to say:
+
+> **We don't diagnose. We make sure the people who do have everything they need.**
 
 ## Related
 
-- [The problem](./problem.md) — why fragmentation happens and why it is not a filing issue
-- [The proposition](./proposition.md) — what we sell and what customers are actually buying
-- [Strategic principles](./principles.md) — the standing decisions that follow from this
-- [Initial target customer](../market/target-customer.md) — the wedge, and why it is only a wedge
+- [The identity decision](./identity.md) — why this and not a records or concierge company
+- [The proposition](./proposition.md)
+- [Strategic principles](./principles.md)
+- [The commercial architecture](../commercial/layers.md)

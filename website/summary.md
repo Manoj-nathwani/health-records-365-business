@@ -23,9 +23,9 @@ Draft copy for every page, plus the reasoning behind the structure.
 | `/` | [Home](./homepage.md) |
 | `/how-it-works` | [How it works](./how-it-works.md) — the method, and the most persuasive page on the site |
 | `/what-you-get` | [What you get](./what-you-get.md) |
-| `/services/build-my-history` | [Build my history](./build-my-history.md) |
-| `/services/keep-it-current` | [Keep it current](./keep-it-current.md) |
-| `/services/prepare-for-care` | [Prepare it for care](./prepare-for-care.md) |
+| `/build-my-record` | [Build my record](./build-my-history.md) — onboarding |
+| `/membership` | [Membership](./keep-it-current.md) — the core product |
+| `/prepare-for-care` | [Prepare it for care](./prepare-for-care.md) — included in membership; standalone for non-members |
 | `/pricing` | [Pricing](./pricing.md) |
 
 ## Trust pages

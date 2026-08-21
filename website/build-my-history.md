@@ -14,11 +14,11 @@ Product 1 of [three](../commercial/layers.md).
 
 ---
 
-# Build my medical history
+# Build my medical record
 
-**One piece of work with an end. We collect everything that exists about your health, and turn it into a history you can use.**
+**Where everything starts. We collect everything that exists about your health and turn it into a history you can use — and that we can plan from.**
 
-From £995.
+From £995, once. Membership begins after it, because nobody can plan your care without knowing your history.
 
 ---
 
@@ -84,9 +84,9 @@ What we promise is that we will pursue every source we can identify, and tell yo
 
 ## Afterwards
 
-A history is accurate the day it is finished. Most people keep it current — that is a separate decision, made after you have seen what you got.
+A history is accurate the day it is finished. Membership is what keeps it true — and what turns it from a document into a service: threads tracked, appointments planned and arranged, handovers prepared. A separate decision, made after you have seen what you got.
 
-**[Keeping it current →]**
+**[Membership →]**
 
 ---
 

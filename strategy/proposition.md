@@ -1,6 +1,6 @@
 ---
 title: The proposition
-description: "What we offer customers, and what they are actually paying for: continuity, confidence and managed responsibility rather than storage."
+description: "What we do for the customer and what they are actually buying: accountability for their healthcare, everything except the medicine."
 tags:
   - strategy
   - proposition
@@ -9,49 +9,47 @@ status: canonical
 ---
 # The proposition
 
-Source: [Master Business Blueprint](../Inbox/health-records-365-business-blueprint.md) §§4, 5.
+Sources: [the identity decision](./identity.md); [Master Business Blueprint](../Inbox/health-records-365-business-blueprint.md) §§4, 5.
 
-## Your complete medical history, organised around you.
+## Your healthcare, handled.
 
-Health Records 365 brings together records from different providers and turns them into one coherent history that remains useful as doctors, hospitals and countries change.
+**We collect it.** Records from NHS care, private healthcare, hospitals, laboratories, overseas providers and whatever the customer already holds — requested formally, chased until they arrive or are refused.
 
-**We collect it.** We help bring together relevant information from NHS care, private healthcare, hospitals, laboratories, overseas providers and records the customer already holds.
+**We make sense of it.** The history reconstructed across time, events connected across providers and years, [uncertainty preserved](../product/uncertainty.md) rather than flattened, contradictions [kept visible](../product/uncertainty.md).
 
-**We make sense of it.** We reconstruct the history across time rather than summarising documents one by one.
+**We surface what is unfinished.** Follow-ups with no outcome, tests recommended and never done, investigations that stopped midway — the [open threads](../product/open-loops.md) no single provider can see.
 
-**We connect related care.** Events recorded years apart or by different providers can be joined into the same health topic or episode where the evidence supports that connection.
+**We plan what is next.** For each unfinished thread: what closing it would involve, where, at what cost, in what order. A [researched plan](../product/navigation.md), never a clinical opinion.
 
-**We preserve uncertainty.** Suspected, historical, patient-reported and confirmed information are not silently flattened into one definitive list. See [uncertainty in the record](../product/uncertainty.md).
+**We arrange the care.** Real facilities, wherever the customer is — researched, compared, booked and sequenced, with the words to say in the appointment prepared. **We take nothing from any provider we recommend.**
 
-**We surface unfinished history.** We identify follow-ups with no visible outcome, incomplete investigations, conflicting information and other [open threads](../product/open-loops.md).
+**We prepare the handover.** The history the next clinician needs, [built to be taken seriously](../product/navigation.md) — sourced to original documents, organised clinically, readable in ten minutes.
 
-**We keep it current.** New consultations, tests and results become part of the same living history rather than another disconnected archive.
-
-**We help customers use it.** The customer can understand their past, prepare for appointments, move between providers and supply the right history when they receive care elsewhere.
+**We bring the outcomes home.** Results and letters return to the record, threads close, and the whole thing stays one living history rather than a new archive per country.
 
 ## What we are really selling
 
-Not storage, document retrieval or software access. **Continuity, confidence and managed responsibility.**
+**Accountability.** Someone whose job it is.
 
-The customer's healthcare may move between NHS and private care, different hospitals, different specialists, different laboratories, different insurers and different countries. Their medical history should remain coherent.
-
-The long-term proposition:
-
-> **One medical history, maintained around you.**
+The customer's healthcare may move between NHS and private care, hospitals, specialists, insurers and countries. Through all of it, one office keeps the record whole, knows what is outstanding, and handles the getting-seen.
 
 The customer should feel:
 
-> "Someone is keeping my medical history properly organised."
+> "Someone is handling it."
 
 not:
 
 > "I subscribe to a health-data app."
 
-The customer is paying for management, convenience, continuity, preparation and confidence — **not storage**. See [why customers pay](../market/why-customers-pay.md) for the itemised version.
+## What we are not selling
+
+- **Storage.** A folder of PDFs is the raw material, not the product
+- **Diagnosis.** We never say what a finding means or what should be done about it clinically — [the boundary](../trust/regulatory-boundary.md). Clinical judgement, where wanted, comes from [a partner GP under their own registration](../product/record-review.md)
+- **Emergency assistance.** Planned and semi-planned care only — see [what we are not](./what-we-are-not.md)
 
 ## Related
 
-- [North star and category](./north-star.md)
-- [The core operating loop](./operating-loop.md)
-- [Core offerings](../commercial/offerings.md) — how this proposition is packaged and sold
-- [Brand and messaging](../brand/positioning.md) — how this is expressed publicly
+- [North star and identity](./north-star.md)
+- [Health navigation](../product/navigation.md)
+- [The commercial architecture](../commercial/layers.md)
+- [Brand and messaging](../brand/positioning.md)

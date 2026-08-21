@@ -22,6 +22,11 @@ status: todo
 | Providers refuse or ignore our mandate at scale | Operational | [Customer mandate](./customer-mandate.md), [retrieval playbook](../operations/retrieval-playbook.md) |
 | Key-person dependency on the founder | Structural | Addressed only when the [SOP](../operations/delivery-sop.md) makes the work delegable |
 | Adviser channel does not convert | Growth | [Distribution](../go-to-market/partners-and-distribution.md) |
+| Concierge framing invites emergency expectations | Safety and reputational | [What we are not](../strategy/what-we-are-not.md) — the planned-care exclusion, stated everywhere |
+| Navigation scope creep — "can you also…" with no boundary | Operational | [Navigation](../product/navigation.md); demand from real customers sets what gets added |
+| Reactive episode work overwhelms one person across timezones | Operational | [The identity decision](../strategy/identity.md) — a stated reversal condition |
+| Commission temptation erodes independence | Trust — the moat itself | [Principles](../strategy/principles.md); all margin lives in the fee |
+| Clinicians dismiss the handover pack | Product — the "taken seriously" bar fails | [Navigation](../product/navigation.md); test with the first real appointments |
 
 ## Note on the top risk
 

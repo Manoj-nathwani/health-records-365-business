@@ -37,7 +37,7 @@ The full set is in [customer triggers](../market/triggers.md).
 
 **Offer** — **Build my medical history**: collect UK records, reconstruct the history, maintain [unresolved items](../product/open-loops.md) and prepare a current record for use abroad.
 
-**Follow-on** — **Keep my medical history current**. See [the three commercial products](../commercial/layers.md).
+**Follow-on** — **membership**: the record kept current and new episodes of care handled abroad. See [the commercial architecture](../commercial/layers.md).
 
 ## Let the channel choose the geography
 

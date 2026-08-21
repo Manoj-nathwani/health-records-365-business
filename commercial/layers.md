@@ -1,34 +1,42 @@
 ---
-title: The three commercial products
-description: Build my history, keep it current, prepare it for care — the only three things we actually sell.
+title: The commercial architecture
+description: Onboarding, membership, premium — the medical-office model, with the record build as the initiation.
 tags:
   - commercial
   - revenue
-  - packaging
+  - membership
 status: canonical
 ---
-# The three commercial products
+# The commercial architecture
 
-Sources: [Competitive Research](../Inbox/health-records-365-competitive-research.md) §23; [Master Business Blueprint](../Inbox/health-records-365-business-blueprint.md) §15.
+Sources: [the identity decision](../strategy/identity.md); [Competitive Research](../Inbox/health-records-365-competitive-research.md) §23.
 
-There are **only three actual commercial products**. Everything else is an acquisition trigger or a landing page.
+A membership model, shaped like the [medical family offices](../market/competitors/sip-medical-family-office.md) and priced for [the missing middle](../market/missing-middle.md).
 
-| Product | What it is | Revenue shape |
+| | What it is | Revenue shape |
 | --- | --- | --- |
-| **1 — Build my medical history** | Collect, retrieve, reconstruct and establish the baseline record | One-off |
-| **2 — Keep my medical history current** | Ongoing retrieval, reconciliation, open-item maintenance and incorporation of new healthcare | Recurring |
-| **3 — Prepare and navigate** | Produce the relevant history for whatever care comes next — and [navigate it](../product/navigation.md): research the options, plan the visits, script the appointments, make the bookings, bring the outcomes back | Episodic, and the premium-tier content |
+| **Onboarding — build the record** | The complete history, reconstructed — because nothing else works without it. *"We cannot plan your care without knowing your history"* | One-off |
+| **Membership — the office** | The record kept current · [open threads tracked](../product/open-loops.md) · [episodes of care planned and arranged](../product/navigation.md) · handovers prepared for every appointment | Annual — the core product |
+| **Premium — family and high-touch** | Multiple family members, multi-country complexity, more active support, [partnered clinical review](../product/record-review.md) | Annual, higher tier |
 
-This matches [VITALL's](../market/competitors/vitall.md) validated **acquire → maintain** shape, with a third preparation product on top.
+**Preparation for a single appointment is available to non-members**, priced per engagement — it is also how a non-member discovers what membership is.
 
-## Products versus entry points
+## Why the record build is the initiation, not the product
 
-The eight [core offerings](./offerings.md) are **not eight products** — they are eight ways in. Treating them as products would fragment delivery and imply sub-brands, which [strategic principles](../strategy/principles.md) forbid.
+Selling the record as the product invites comparison with [a £399 one-off](../market/competitors/chronicle-health.md). Selling membership — with the record build as its necessary first step — dissolves that comparison entirely: nobody compares an initiation fee to a rival's whole product, and the anchor moves [upward, to the family offices](../market/missing-middle.md).
 
-Product 2 is where [accountability](../market/differentiation.md) lives, and it is the one competitors under-serve. Ongoing management by itself is [table stakes](../market/table-stakes.md) — the differentiation is the *quality and completeness* of the stewardship, not the fact of recurrence.
+[VITALL's](../market/competitors/vitall.md) acquire-then-maintain shape validates the mechanics; the membership framing is what they lack.
+
+## The unit of work: the episode of care
+
+Membership is delivered episode by episode. An episode opens (a nudge acted on, an appointment needed, a move), gets [planned, booked and scripted](../product/navigation.md), happens at a real facility, and closes when its outcomes are home in the record. **A membership year is the record kept true plus the episodes handled inside it.**
+
+## Entry points
+
+The eight [offerings](./offerings.md) and thirteen [triggers](../market/triggers.md) remain entry points into this one architecture — one brand, no sub-brands, no separate pricing per situation — per [strategic principles](../strategy/principles.md).
 
 ## Related
 
-- [Core offerings](./offerings.md) — the eight entry points
-- [Pricing hypotheses](./pricing.md)
-- [The stewardship system](../product/stewardship-system.md)
+- [Pricing](./pricing.md)
+- [Health navigation](../product/navigation.md)
+- [The retention loop](./retention-loop.md)

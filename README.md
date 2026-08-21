@@ -8,19 +8,19 @@ status: canonical
 ---
 # Health Records 365 — working knowledge base
 
-> **Health Records 365 is a managed medical-history service that obtains, organises and continuously maintains your health record across doctors, hospitals and countries.**
+> **Health Records 365 is an independent medical office, minus the medicine — we build and manage the complete medical record, plan what needs doing next, arrange care at real facilities wherever the customer lives, and prepare their history so any clinician takes it seriously. We never diagnose, and we take no commission from any provider.**
 
 Domain: health-records-365.com
 
 ## The position, in one line
 
-> **Your providers manage their records. Health Records 365 manages your medical history.**
+> **Your healthcare, handled — wherever life takes you.**
 
-The differentiator is **accountability**, not capability. Nearly every feature is [table stakes](./market/table-stakes.md).
+The differentiator is **accountability**, not capability. Nearly every feature is [table stakes](./market/table-stakes.md); the moat is the [reconciled record](./product/stewardship-system.md) and the office that stands on it.
 
 ## Start here
 
-- [The identity question](./strategy/identity.md) — **what business this is — the open decision**
+- [The identity decision](./strategy/identity.md) — **what business this is, and what would reverse it**
 - [Gameplan](./gameplan.md) — what to build next, in what order
 - [North star and category](./strategy/north-star.md) — what the company is for
 - [Differentiation](./market/differentiation.md) — what compounds
@@ -85,10 +85,9 @@ Every doc cites the source sections behind it. The two source documents live in 
 
 | Doc | Covers |
 | --- | --- |
-| [The three commercial products](./commercial/layers.md) | Build / keep current / prepare for care |
+| [The commercial architecture](./commercial/layers.md) | Onboarding · membership · premium — the office model |
 | [Core offerings](./commercial/offerings.md) | Eight entry points into those three |
 | [Pricing hypotheses](./commercial/pricing.md) | Price tests and the competitive ladder |
-| [Concierge-led selling](./commercial/concierge-led.md) | Live hypothesis: navigation leads the sell, the record is the engine |
 | [Business model thesis](./commercial/business-model.md) | Premium service first |
 | [The retention loop](./commercial/retention-loop.md) | How a maintained history compounds |
 

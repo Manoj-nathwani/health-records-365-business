@@ -18,6 +18,16 @@ The brand should sound calm, premium, competent, trustworthy and service-oriente
 
 ## Primary brand promise
 
+> **Your healthcare, handled — wherever life takes you.**
+
+And the sentence that always accompanies it:
+
+> **We don't diagnose. We make sure the people who do have everything they need.**
+
+## The foundation-layer promise
+
+Still true, and still used where the record leads the conversation:
+
 > **Your medical history, managed wherever life takes you.**
 
 ## Accountability formulations

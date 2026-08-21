@@ -48,6 +48,39 @@ So: ✓ *"Nothing in the record shows the 2021 finding was ever followed up; a g
 - **It generates its own retention.** Every executed plan returns documents, which improve the record, which sharpens the next nudge — [the loop](../commercial/retention-loop.md), self-feeding
 - **Travel-agent independence is a position competitors cannot copy** — most health platforms monetise referrals; we structurally refuse to
 
+## The unit of work: the episode of care
+
+Navigation is delivered in **episodes**. An episode opens — a nudge acted on, an appointment needed, a move to plan — and closes only when its outcomes are home in the record:
+
+```text
+Opened (nudge, need, or move)
+        ↓
+Planned — options researched, sequenced against the record
+        ↓
+Booked — provider contacted, appointment made, script prepared
+        ↓
+Attended
+        ↓
+Outcomes home — results and letters into the record
+        ↓
+Closed — and the open loops it touched update
+```
+
+An episode without its outcomes home is not closed, however well the appointment went — the return leg is the half everyone skips, and it is the half that keeps the record true.
+
+## Prepared to be taken seriously
+
+Clinicians routinely discount patient-held records — a folder of photocopies and a verbal history get polite skimming, not attention. The handover pack has to clear a higher bar: **it must read like a clinical document, not a patient's scrapbook.**
+
+What earns that:
+
+- **Every claim traceable to an original document**, attached — the clinician can verify anything in one step
+- **Clinical organisation** — the structure a doctor expects, leading with what matters for *their* specialty
+- **Uncertainty stated in clinical terms** — *suspected, never confirmed* rather than a tidied narrative
+- **Ten-minute readability** — the relevant subset, not the archive
+
+A pack the clinician takes seriously changes the appointment itself: the customer stops being an unreliable narrator of their own history and starts being a well-documented patient. That is a large part of what the fee buys.
+
 ## Where it sits commercially
 
 This fills out [product 3](../commercial/layers.md) — "prepare it for care" grows into **prepare and navigate**: the pack, plus the research, itinerary, scripts and bookings around it. Bundled into the annual tier for ongoing customers; the strongest content of the [premium tier](../commercial/pricing.md), where a full multi-city care itinerary justifies four figures.

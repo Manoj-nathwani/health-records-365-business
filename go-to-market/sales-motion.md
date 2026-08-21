@@ -23,7 +23,7 @@ Past behaviour predicts payment; stated interest does not. Someone who cannot re
 
 **Then show, do not describe.** The [sample pack](../operations/sample-pack.md) is the pitch. A real record, opened and scrolled through, does more than any explanation of what the service does.
 
-**Run the framing experiment on every early conversation.** Pitch [concierge-led](../commercial/concierge-led.md) to some prospects and record-led to others, and log which framing closes — the first customers are the test.
+**Lead with the office, and log what lands.** The pitch is *"we handle your healthcare wherever you are — the record, the planning, the arranging — and we never diagnose."* Watch which element the prospect grabs: if it is consistently the record alone, that is a [reversal signal for the identity](../strategy/identity.md); log it.
 
 ## What can honestly be promised
 

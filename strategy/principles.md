@@ -15,7 +15,11 @@ These are standing decisions. Changing one should be a deliberate act, not a dri
 
 **One brand.** Health Records 365. See [one brand, many entry points](../commercial/offerings.md).
 
-**One job.** Manage the person's medical history.
+**One job.** Handle the person's healthcare — the record, the plan, the access. Never the medicine.
+
+**Independence.** No commission, referral fee or kickback from any provider we recommend or book. The moment a recommendation earns us money from the provider, it stops being information.
+
+**Planned care only.** No emergencies, no 24/7 line, no evacuation — that is a different industry with different economics, and we say so wherever the service is described.
 
 **Many entry points.** Sell to the customer's current situation. See [customer triggers](../market/triggers.md).
 

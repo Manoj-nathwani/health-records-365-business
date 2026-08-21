@@ -61,4 +61,4 @@ These should be answered by delivering the first cohort — see [validation plan
 
 - [Inputs](./inputs.md)
 - [The labour question](../go-to-market/labour-economics.md) — the cost side of stewardship
-- [The three commercial products](../commercial/layers.md)
+- [The commercial architecture](../commercial/layers.md)
