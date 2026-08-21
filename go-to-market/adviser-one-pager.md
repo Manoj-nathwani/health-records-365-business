@@ -15,7 +15,7 @@ status: todo
 
 Be explicable by someone whose expertise is tax, property or visas — in one sentence:
 
-> "We've handled the financial and residency side of your move. They handle the healthcare side — your records, your appointments, wherever you end up."
+> "We've helped with the financial, tax and relocation side. You should also make sure your medical history moves with you."
 
 ## Contents
 

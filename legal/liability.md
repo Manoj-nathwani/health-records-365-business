@@ -17,10 +17,6 @@ We take responsibility for the completeness of someone's medical history. If we 
 
 This is the cost of selling [accountability](../market/differentiation.md) rather than software. A tool provider carries far less of this risk; that is precisely why their position is weaker and ours is more exposed.
 
-## The navigation exposures, additionally
-
-[Arranging care](../product/navigation.md) adds failure modes the record work does not have: a booking at the wrong facility, research that missed a materially better option, a sequencing error that wastes a procedure, an episode delayed by our logistics. Each is a service failure rather than a clinical one — but a service failure *about healthcare*, which is how a claimant will frame it. The indemnity conversation must cover arranging, not only record-keeping.
-
 ## What this doc must settle
 
 - Professional indemnity cover: whether it is obtainable for this activity, at what limit and cost

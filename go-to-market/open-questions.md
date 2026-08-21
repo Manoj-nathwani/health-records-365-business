@@ -31,13 +31,6 @@ Questions to answer by delivering, not by analysing. Where a belief already has 
 - Does the [open-loop lifecycle](../product/open-loops.md) get used, or do customers only value the initial detection?
 - How frequently do customers use conversational access to their history? — see [ask your medical history](../product/ask-your-history.md)
 
-## The office identity
-
-- Which element of the pitch closes — the record, the handling, or the pair? A consistent record-only pattern is [a reversal signal](../strategy/identity.md)
-- How often do members buy [arranging](../product/navigation.md), and at what per-episode price does it feel fair? The take-rate decides whether "arranging included" becomes the premium tier's content
-- Do members want the booking made for them, or the research handed over — and does that split by age?
-- Does the [handover pack](../product/navigation.md) actually change how clinicians treat the customer — the "taken seriously" bar, tested in real appointments
-
 ## The recurring relationship
 
 - Will customers form the habit of forwarding new medical records? — [the retention loop](../commercial/retention-loop.md) depends on it

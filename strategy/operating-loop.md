@@ -13,7 +13,7 @@ Source: [Master Business Blueprint](../Inbox/health-records-365-business-bluepri
 
 Internally, the service can be understood as:
 
-**Collect → Preserve → Structure → Reconcile → Connect → Surface → Plan → Arrange → Update**
+**Collect → Preserve → Structure → Reconcile → Connect → Surface → Help use → Update**
 
 ```mermaid
 flowchart LR
@@ -22,10 +22,9 @@ flowchart LR
   C --> D[Reconcile]
   D --> E[Connect]
   E --> F[Surface]
-  F --> G[Plan]
-  G --> H[Arrange]
-  H --> I[Update]
-  I --> A
+  F --> G[Help use]
+  G --> H[Update]
+  H --> A
 ```
 
 **Collect** — bring together the raw record. See [inputs](../product/inputs.md).
@@ -40,9 +39,7 @@ flowchart LR
 
 **Surface** — make important unresolved or overlooked information visible. See [open and unresolved history](../product/open-loops.md).
 
-**Plan** — for each surfaced item, what acting on it would involve: options, prices, sequencing. See [navigation](../product/navigation.md).
-
-**Arrange** — book the [episode of care](../product/navigation.md): the facility researched, the appointment made, the history prepared so the clinician takes it seriously. See [outputs](../product/outputs.md).
+**Help use** — prepare relevant information for appointments, specialists, second opinions, treatment or moves. See [outputs](../product/outputs.md).
 
 **Update** — incorporate the outcome back into the history so the record becomes more useful over time.
 

@@ -36,7 +36,7 @@ The adviser is the reader most sites in this category ignore, and the one who un
 | Business element | Site element |
 | --- | --- |
 | [Accountability position](../market/differentiation.md) | Homepage headline and the whole tone |
-| [The membership architecture](../commercial/layers.md) | Onboarding, membership and family pages — the commercial spine |
+| [Three commercial products](../commercial/layers.md) | Three service pages — the commercial spine |
 | [Eight entry points](../commercial/offerings.md) and [thirteen triggers](../market/triggers.md) | Situation pages, all funnelling into the three products |
 | [The stewardship system](../product/stewardship-system.md) | *How it works* — the differentiated page |
 | [Deliverable spec](../operations/deliverable-spec.md) and [sample pack](../operations/sample-pack.md) | *What you get*, with a real example |
@@ -53,7 +53,7 @@ The adviser is the reader most sites in this category ignore, and the one who un
 
 - **How it works**
 - **What you get**
-- **Membership** — build the record · the membership · families
+- **Services** — build my history · keep it current · prepare it for care
 - **Situations** — the entry points
 - **Pricing**
 - **Trust & data**
@@ -70,9 +70,9 @@ The adviser is the reader most sites in this category ignore, and the one who un
 | **Home** | State the position, name the three products, route the three readers. See [the homepage](./homepage.md) |
 | **How it works** | The method, stage by stage: what we request, from whom, what happens to contradictions, how uncertainty is preserved. **The most persuasive page on the site** |
 | **What you get** | The deliverable, component by component, with a real anonymised example open to read |
-| **Build my record** | Onboarding — scope, timeline, price, and why everything starts here |
-| **Membership** | The core product: record current, threads tracked, episodes planned and arranged, handovers prepared |
-| **Families** | Multiple members, multi-country, high-touch, partnered clinical review |
+| **Build my history** | The one-off reconstruction — scope, timeline, price |
+| **Keep it current** | The ongoing product, and why a record decays without it |
+| **Prepare it for care** | The episodic product — new doctor, specialist, second opinion, treatment abroad |
 | **Pricing** | All three products. Published, with what is and is not included |
 
 ### Trust — the part competitors skip

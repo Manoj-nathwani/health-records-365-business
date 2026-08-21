@@ -83,12 +83,6 @@ Nothing in your history is a summary you have to take on trust. Each statement l
 
 ---
 
-## A plan for what is next
-
-For each unfinished item: what the record shows, what closing it would involve — where it can be done near you, roughly what it costs, and what has to happen in what order.
-
-What any of it *means*, and whether to act, is a conversation with a doctor. Our job is that you walk into that conversation knowing exactly what is open and what the options are.
-
 ## Prepared extracts, when you need them
 
 A new specialist does not want three decades of records. They want the part that concerns them.

@@ -15,15 +15,13 @@ Structure and rationale: [site architecture](./strategy.md).
 
 ## Hero
 
-# Your healthcare, handled — wherever life takes you.
+# Your providers manage their records. We manage your medical history.
 
-Your GP, your hospitals, the private clinics you have used and the doctors you see abroad each hold a piece of your story. Nobody holds the whole thing, nobody plans what comes next, and nobody is responsible for any of it.
+Your GP, your hospitals, the private clinics you have used and the doctors you see abroad each hold a piece of your history. Nobody holds the whole thing, and nobody is responsible for it.
 
-Health Records 365 builds your complete medical record, keeps it current, plans what needs doing, and arranges the care — at real hospitals and clinics, in whatever country you are in.
+Health Records 365 collects it, makes sense of it, and keeps it that way.
 
-**We don't diagnose. We make sure the people who do have everything they need.**
-
-**[How it works]** **[See what you get]**
+**[See what you get]** **[How it works]**
 
 ---
 
@@ -43,27 +41,21 @@ Move country and it stops being a background problem. Your new doctor starts fro
 
 ## What we do
 
-### First, we build your record
+### Build your medical history
 
-We request your records from every provider who holds them — NHS, private, overseas — and reconstruct what actually happened, in order, with the original documents kept underneath. Everything else starts here, because nobody can plan your care without knowing your history.
+We request your records from every provider who holds them — NHS, private, overseas — and reconstruct what actually happened, in order, with the original documents kept underneath.
 
-**From £995, once · [More →]**
+**From £995 · [More →]**
 
-### Then, membership: your record and your plan, managed
+### Keep it current
 
-The record kept current as care happens. Unfinished threads — the test never done, the referral without an outcome — tracked until they close. A clear plan for what is next, and your history prepared before every appointment so the clinician takes it seriously in the first ten minutes.
+New consultations, results and letters get added as they happen. Unresolved threads stay tracked until they close.
 
 **£795 a year · [More →]**
 
-### And when you want it handled, we arrange it
+### Prepare it for care
 
-The right facility researched wherever you are, the appointment booked, the visit prepared, the results chased home — per episode, whenever you want the legwork done rather than described. We take nothing from any provider we send you to.
-
-**From £150 per episode · [More →]**
-
-### For families and complex lives
-
-Multiple family members, care across several countries, more active support — and, where wanted, a partner GP who has read your complete file before you speak.
+Before a new specialist, a second opinion or treatment abroad, we prepare the history that particular doctor needs — not the whole archive.
 
 **[More →]**
 
@@ -120,7 +112,7 @@ A readable history of what has happened to you, organised so a doctor can use it
 
 We do not diagnose, recommend treatment, or tell you which tests to have. We are not a replacement for a doctor and we do not give medical advice.
 
-We organise the record, show you what it says — including what was left unfinished — and handle the logistics of getting seen. What anything means, and what to do about it, is between you and a clinician.
+We organise the record and show you what it says — including where it is incomplete, contradictory, or has left something unfinished. What to do about that is between you and a clinician.
 
 **[Our limits, in full →]**
 

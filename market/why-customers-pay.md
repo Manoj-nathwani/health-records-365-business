@@ -25,8 +25,6 @@ Source: [Master Business Blueprint](../Inbox/health-records-365-business-bluepri
 
 **Ongoing maintenance** — they do not want today's clean archive to become tomorrow's mess.
 
-**Access** — when something needs doing, someone who knows their history [finds the facility, books it and preps it](../product/navigation.md) — wherever they happen to be living.
-
 > The customer is not paying to store PDFs. They are paying for someone to keep the story coherent.
 
 ## Related

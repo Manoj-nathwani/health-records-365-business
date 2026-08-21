@@ -21,7 +21,7 @@ Validated by the market, but **not core positioning**. Build when a real custome
 
 **Insurance-document support** — help with insurer requests, pre-authorisation and claims.
 
-**Family management** is no longer on this list — it is the content of [the premium tier](../commercial/layers.md). What remains deferred is the *delivery machinery* for it: permission models, proxy mandates and multi-member record separation, built when the first family customer forces them.
+**Family management** — spouses, parents and dependants with appropriate permissions. Listed among the [core offerings](../commercial/offerings.md), but deferred.
 
 **International Patient Summary** — potentially generate an IPS-compatible portable summary. See [interoperability](../strategy/interoperability.md).
 

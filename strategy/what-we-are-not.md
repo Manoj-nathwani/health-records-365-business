@@ -11,7 +11,7 @@ status: canonical
 
 Source: [Master Business Blueprint](../Inbox/health-records-365-business-blueprint.md) §§9, 32.
 
-Health Records 365 is not:
+Health Records 365 is not primarily:
 
 - an NHS export service
 - a folder for medical PDFs
@@ -24,10 +24,8 @@ Health Records 365 is not:
 - a traditional telemedicine provider
 - a one-country patient portal
 - a self-service note-taking app
-- an emergency or medical-assistance service
-- **a Medical Family Office** — we take that world's architecture (one accountable office for a person's healthcare) but not its scope: no staff physicians, no five-figure retainer, and never the medicine itself
 
-The goal is not to make customers administer their own medical database — nor to become their doctor.
+The goal is not to make customers administer their own medical database.
 
 ## Not competing on telemetry
 

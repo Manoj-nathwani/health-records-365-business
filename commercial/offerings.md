@@ -1,6 +1,6 @@
 ---
 title: Core offerings
-description: One brand, eight entry points — the situations that all funnel into the same membership.
+description: One brand, eight entry points — the situational services that all funnel into the same underlying record management.
 tags:
   - commercial
   - offerings
@@ -28,7 +28,7 @@ Five verbs summarise the business:
 
 Each situation below can become a [landing page](../website/strategy.md) and commercial entry point without changing the underlying company.
 
-> **These eight are entry points, not products.** We sell [one membership architecture](./layers.md) — onboarding, membership, premium — and every offering below funnels into it. Treating them as eight products would fragment delivery and imply sub-brands.
+> **These eight are entry points, not products.** We sell [three commercial products](./layers.md) — build my history, keep it current, prepare it for care — and every offering below funnels into one of them. Treating them as eight products would fragment delivery and imply sub-brands.
 
 ## 1. Organise My Medical History
 

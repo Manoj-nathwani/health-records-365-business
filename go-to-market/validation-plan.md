@@ -19,7 +19,7 @@ Delivery is manual and bespoke by design, so nothing here waits on tooling.
 
 - [ ] **1. Produce something to show** — an anonymised [sample pack](../operations/sample-pack.md) from the [existing record](../operations/reference-implementation.md)
 - [ ] **2. Clear the [legal gate](../legal/compliance.md)** — [mandate](../legal/customer-mandate.md), [terms](../legal/terms.md), [insurance](../legal/liability.md). A chartered firm will ask, and "not yet" ends the conversation
-- [ ] **3. Fix the offer** — [onboarding plus membership](../commercial/layers.md), one price each, one honest timeline. Lead partner conversations with that pair: against a partner's own ~£1,000 fee, [the referral is material](./referral-terms.md), and membership gives them a recurring story to tell
+- [ ] **3. Fix the offer** — one price, one scope, one honest timeline. Lead partner conversations with the premium tier; the entry price does not pay a partner enough to care
 - [ ] **4. Sell three to five directly**, at full price, from the [warm network and expat communities](./first-customers.md)
 - [ ] **5. Deliver them by hand**, and get written testimonials plus permission for one anonymised case study
 

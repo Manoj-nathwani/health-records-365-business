@@ -27,9 +27,9 @@ Sources: [Competitive Research](../../Inbox/health-records-365-competitive-resea
 | Managed records | VITALL and similar | Obtain and keep my records organised for me |
 | Health advocacy / navigation | Solace and patient advocates | Help coordinate records, providers, follow-ups and care |
 | Medical Family Office | SIP, Molliora, Delegata, Aperture, My-Health UAE, MARZ Medical, PinnacleCare | Take responsibility for major parts of my healthcare life |
-| **Health Records 365** | **—** | **Take responsibility for my healthcare — record, plan and access — everything except the medicine** |
+| **Health Records 365** | **—** | **Take responsibility for continuity of my medical history** |
 
-The opportunity is [the independent medical office](../../strategy/identity.md) between DIY software / one-off reconstruction and expensive healthcare concierge services — record-grounded, cross-border, commission-free.
+The opportunity is a clear **managed-history layer** between DIY software / one-off reconstruction and expensive healthcare concierge services.
 
 ## Profiled
 

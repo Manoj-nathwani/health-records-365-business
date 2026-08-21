@@ -25,7 +25,6 @@ status: todo
 
 We cannot [price](../commercial/pricing.md), sell or QA an unspecified thing. Advisers cannot describe it. The [sample pack](./sample-pack.md) is this spec made concrete.
 
-## Constraints
+## Constraint
 
-- Every component stays inside [the regulatory boundary](../trust/regulatory-boundary.md) — statements about the record, never clinical recommendation
-- The handover components must clear [the taken-seriously bar](../product/navigation.md): clinically organised, every claim traceable to an attached original, ten-minute readable. A pack a clinician skims politely has failed regardless of its accuracy
+Every component must stay inside [the regulatory boundary](../trust/regulatory-boundary.md) — statements about the record, never clinical recommendation.

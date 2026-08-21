@@ -40,5 +40,5 @@ Customers must actually forward new records. Whether that habit forms is one of 
 ## Related
 
 - [The core operating loop](../strategy/operating-loop.md) — "send us what happens next"
-- [The commercial architecture](./layers.md) — the membership
+- [The three commercial products](./layers.md) — product 2
 - [Business model thesis](./business-model.md)

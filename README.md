@@ -8,20 +8,19 @@ status: canonical
 ---
 # Health Records 365 — working knowledge base
 
-> **Health Records 365 is an independent medical office, minus the medicine — we build and manage the complete medical record, plan what needs doing next, arrange care at real facilities wherever the customer lives, and prepare their history so any clinician takes it seriously. We never diagnose, and we take no commission from any provider.**
+> **Health Records 365 is a managed medical-history service that obtains, organises and continuously maintains your health record across doctors, hospitals and countries.**
 
 Domain: health-records-365.com
 
 ## The position, in one line
 
-> **Your healthcare, handled — wherever life takes you.**
+> **Your providers manage their records. Health Records 365 manages your medical history.**
 
-The differentiator is **accountability**, not capability. Nearly every feature is [table stakes](./market/table-stakes.md); the moat is the [reconciled record](./product/stewardship-system.md) and the office that stands on it.
+The differentiator is **accountability**, not capability. Nearly every feature is [table stakes](./market/table-stakes.md).
 
 ## Start here
 
-- [The identity decision](./strategy/identity.md) — **what business this is, and what would reverse it**
-- [Gameplan](./gameplan.md) — what to build next, in what order
+- [Gameplan](./gameplan.md) — **what to build next, in what order**
 - [North star and category](./strategy/north-star.md) — what the company is for
 - [Differentiation](./market/differentiation.md) — what compounds
 - [The stewardship system](./product/stewardship-system.md) — how accountability is operationalised
@@ -43,7 +42,6 @@ Every doc cites the source sections behind it. The two source documents live in 
 | [The core operating loop](./strategy/operating-loop.md) | Collect → … → Update |
 | [Strategic principles](./strategy/principles.md) | The standing decisions |
 | [Interoperability](./strategy/interoperability.md) | Why the NHS Single Patient Record is a tailwind |
-| [Clinical capability](./strategy/clinical-capability.md) | The ladder from stating the record to employing clinicians |
 | [What we are not](./strategy/what-we-are-not.md) | Explicit non-goals |
 
 ## Product
@@ -51,8 +49,6 @@ Every doc cites the source sections behind it. The two source documents live in 
 | Doc | Covers |
 | --- | --- |
 | [The stewardship system](./product/stewardship-system.md) | The per-customer source map — the core asset |
-| [Health navigation](./product/navigation.md) | The independent planner over the record — research, itineraries, scripts, bookings |
-| [The record review](./product/record-review.md) | A partnered GP consultation over the completed record |
 | [Open and unresolved history](./product/open-loops.md) | The maintained lifecycle |
 | [Inputs](./product/inputs.md) | What the service takes in |
 | [Outputs](./product/outputs.md) | What it maintains for every customer |
@@ -85,7 +81,7 @@ Every doc cites the source sections behind it. The two source documents live in 
 
 | Doc | Covers |
 | --- | --- |
-| [The commercial architecture](./commercial/layers.md) | Onboarding · membership · premium — the office model |
+| [The three commercial products](./commercial/layers.md) | Build / keep current / prepare for care |
 | [Core offerings](./commercial/offerings.md) | Eight entry points into those three |
 | [Pricing hypotheses](./commercial/pricing.md) | Price tests and the competitive ladder |
 | [Business model thesis](./commercial/business-model.md) | Premium service first |

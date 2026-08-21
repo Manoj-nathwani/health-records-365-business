@@ -55,7 +55,7 @@ Adviser-led distribution is proven in the market: relevant players already work 
 
 The service must be extremely easy for a professional adviser to explain:
 
-> "We handle the financial and residency side of your move. Health Records 365 handles the healthcare side — your records, your appointments, wherever you end up."
+> "We handle the financial and residency side of your move. Health Records 365 can handle the medical-history side."
 
 The partner does not need to become a health adviser. They need somewhere trusted to send the problem.
 

@@ -41,9 +41,9 @@ The second should not be casually folded into the record-management product. Thi
 
 ## If the boundary ever moves
 
-The boundary is a choice, not a prohibition — a registered clinician can lawfully do everything this page rules out. The full analysis of whether and how to move it — the five-step ladder, the cross-border problem, the conflict-of-interest firewall — is in [clinical capability](../strategy/clinical-capability.md).
+If the business later wants to provide personalised clinical recommendations, this should be designed **deliberately** — potentially with clinician review and a proper assessment of UK medical-device and professional-regulatory obligations based on intended purpose.
 
-Any move is designed **deliberately**, with clinician cover and a proper assessment of UK medical-device and professional-regulatory obligations based on intended purpose. The service does not position itself as a replacement for doctors. See [what we are not](../strategy/what-we-are-not.md).
+The service should not position itself as a replacement for doctors. See [what we are not](../strategy/what-we-are-not.md).
 
 ## Note on benchmarking
 

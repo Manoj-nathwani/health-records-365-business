@@ -21,7 +21,7 @@ The service should feel like having a trusted person or organisation maintain an
 4. **We show uncertainty and gaps.** Open threads, contradictions and missing outcomes become visible.
 5. **The customer receives a usable history.** Not merely an archive.
 6. **We keep it current.** New healthcare is incorporated as it happens.
-7. **We handle what comes next.** When something needs doing — a specialist, a check-up, the test that was never booked — we [plan and arrange the episode](./navigation.md): the facility researched wherever they are, the appointment made, the history prepared, the outcomes brought home.
+7. **Use it when needed.** For appointments, new specialists, moves, second opinions, overseas treatment and questions about the past.
 
 This is the customer-side view of [the core operating loop](../strategy/operating-loop.md).
 

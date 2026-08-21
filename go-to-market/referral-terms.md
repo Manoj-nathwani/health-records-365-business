@@ -44,7 +44,7 @@ The calculation inverts at Big-4-scale firms, where the same £199 is beneath no
 | **Wholesale** — they buy at a discount and price it themselves | They keep the client relationship entirely; good where a firm wants to bundle | Loses direct contact with the customer, and with it the [retention loop](../commercial/retention-loop.md) |
 | **Unpaid added value** | Costs nothing, and signals they believe in it | No financial hook if attention lapses |
 
-**Offer ongoing revenue share for the first cohort of partners.** It is the most generous structure, it aligns them with the thing that actually matters, and generosity is cheap when the alternative is no distribution at all. The [membership model](../commercial/layers.md) makes it genuinely attractive: a share of a renewing membership is a recurring line for the partner, not a one-off bounty.
+**Offer ongoing revenue share for the first cohort of partners.** It is the most generous structure, it aligns them with the thing that actually matters, and generosity is cheap when the alternative is no distribution at all.
 
 ## What has to be settled
 
