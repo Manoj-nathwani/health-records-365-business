@@ -59,7 +59,7 @@ Those things do not resolve themselves, and leaving the country makes them perma
 
 **Before you go**, we request your records from every UK provider who holds them — GP practices past and present, hospital trusts, private consultants, laboratories — and reconstruct them into a history a doctor in any country can read.
 
-**After you go**, we keep collecting. Your new providers become sources like any other, and your history stays one thing instead of two.
+**After you go**, we keep handling it. Your new providers become sources like any other, your history stays one thing instead of two — and when you need to be seen, we research the facilities where you have landed, book the appointment, and prepare your history so the new doctor takes it seriously from the first visit.
 
 **[How it works →]** **[What you receive →]**
 

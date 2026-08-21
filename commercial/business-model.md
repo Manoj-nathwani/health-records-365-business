@@ -23,6 +23,8 @@ Source: [Master Business Blueprint](../Inbox/health-records-365-business-bluepri
 
 **Portability is a strength.** The record remains exportable. The business wins by being useful enough that customers stay, not by trapping their data. See [data sovereignty](../trust/data-sovereignty.md).
 
+**All margin lives in the fee.** [No commission from any provider](../product/navigation.md) we research or book — independence is the trust position, so the membership fee is the entire revenue model, by design.
+
 ## Related
 
 - [Pricing hypotheses](./pricing.md)

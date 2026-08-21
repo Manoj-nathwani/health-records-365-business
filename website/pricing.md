@@ -1,6 +1,6 @@
 ---
 title: Pricing — page copy
-description: Draft copy for the pricing page, published rather than hidden.
+description: "Draft copy for the pricing page: onboarding, membership, families — published rather than hidden."
 tags:
   - website
   - copy
@@ -10,7 +10,7 @@ route: /pricing
 ---
 # Pricing — page copy
 
-Published deliberately — reasoning in [the homepage spec](./homepage.md) and [the sales motion](../go-to-market/sales-motion.md).
+Published deliberately — reasoning in [the homepage spec](./homepage.md) and [the sales motion](../go-to-market/sales-motion.md). Structure follows [the commercial architecture](../commercial/layers.md).
 
 ---
 
@@ -20,69 +20,74 @@ We publish our prices. You should not have to book a call to find out whether so
 
 ---
 
-## Build my medical history
+## Build your record
 
-### £995
+### £995, once
 
-One payment. Everything in [what you get](./what-you-get.md).
+Where every membership starts — nobody can plan your care without knowing your history.
 
-- Requests to every provider we can identify, and chasing them
+- Requests to every provider we can identify, and chasing them until they answer or refuse
 - Records you already hold, incorporated
 - The full reconstruction, with every original document kept
-- A conversation to walk you through what it found
+- A conversation to walk you through what it found — including what is unfinished
 
 **More where it is genuinely more work** — many providers, several countries, decades of history, translation. Quoted before we start, never after.
 
 ---
 
-## Keep it current
+## Membership
 
 ### £795 a year
 
-After your history is built.
+Your healthcare, handled:
 
-- Everything you send us, added and connected
-- Unresolved items tracked until they close
-- New providers requested from as you start using them
-- Preparation for appointments, included
+- Everything you send us, added and connected; promised results chased
+- Unfinished threads tracked until something actually closes them
+- Your episodes of care planned and arranged — facilities researched wherever you are, appointments booked, the words to say prepared
+- Your history prepared for every appointment, so the clinician takes it seriously in ten minutes
+- Outcomes brought back into the record afterwards
 
-Stop whenever you like and keep everything.
+**We take nothing from any provider we recommend.** No commissions, no partner fees — the advice has nothing behind it but your interest.
 
----
-
-## Prepare for care
-
-### Included with the annual service
-
-Available separately if you are not keeping your record current with us. Priced per preparation, depending on how much has changed.
+Stop whenever you like and keep everything, in a format that does not need us.
 
 ---
 
 ## Families
 
-People often want this for a parent as well as themselves. That is a conversation rather than a price on a page — the work depends on how much of it you can access on their behalf.
+### From £1,500 a year
+
+Spouses, parents and children under one membership, with appropriate permissions — and, where wanted, [a partner GP who has read the complete file](./keep-it-current.md) before anyone speaks.
+
+The exact shape is a conversation: the work depends on how many records there are and how much of them you can access on a relative's behalf.
+
+---
+
+## Not a member?
+
+**Preparation for a single appointment** is available on its own — priced per engagement, depending on how much has changed since we last saw your record. It is also how most people discover what membership does.
 
 ---
 
 ## What we do not charge for
 
-- The first conversation, including if it ends with us saying this is not worth it for you
+- The first conversation — including if it ends with us saying this is not worth it for you
 - Getting your records out. **Export is free, always.** Leaving is not a chargeable event
 
 ---
 
 ## How this compares
 
-You can get a medical-record summary for a few hundred pounds. What you get is a document, handed over once, with nobody responsible for it afterwards.
+You can get a medical-record summary for a few hundred pounds: a document, handed over once, with nobody responsible for it afterwards.
 
-At the other end, medical family offices manage the health affairs of wealthy families for many thousands a year, and manage far more than records.
+At the other end, medical family offices manage the health affairs of wealthy families for many thousands a year — and manage far more than we do, including the medicine.
 
-We do one thing, properly, and stay responsible for it.
+We are the office in between: your record, your plan, your appointments — handled, for less than the cost of the tax advice on your move.
 
 ---
 
 ## Notes
 
-- **All figures unconfirmed.** £995 and £795 come from the [test range](../commercial/pricing.md); settle before publishing.
-- The comparison section names no competitor deliberately — describing the shape of the alternative is more durable than naming a firm whose pricing moves.
+- **All figures unconfirmed** — drawn from the [test ranges](../commercial/pricing.md); settle before publishing. Membership may test at £995–£1,295 given what it now includes.
+- The closing comparison anchors against [the exit budget](../commercial/pricing.md) deliberately.
 - Free export is a real commitment from [data sovereignty](../trust/data-sovereignty.md), not a marketing line.

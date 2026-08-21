@@ -31,6 +31,8 @@ The first paying customers should double as a time-and-motion study. Track these
 | Customer support | | |
 | Provider-pack preparation | | |
 | Recurring maintenance (per month) | | |
+| Navigation, per episode — research, booking, scripting | | The new unknown the [membership price](../commercial/pricing.md) depends on |
+| Outcome retrieval, per episode | | The return leg that closes it |
 
 Use one table per customer. The recurring row is the one that determines whether the annual price works.
 

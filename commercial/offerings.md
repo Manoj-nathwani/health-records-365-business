@@ -1,6 +1,6 @@
 ---
 title: Core offerings
-description: One brand, eight entry points — the situational services that all funnel into the same underlying record management.
+description: One brand, eight entry points — the situations that all funnel into the same membership.
 tags:
   - commercial
   - offerings

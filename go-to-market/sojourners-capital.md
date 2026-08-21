@@ -67,7 +67,7 @@ Question 4 is the one worth travelling for. A firm that project-manages exits ac
 
 ## What their client base implies
 
-**This channel sells the entry product**, at £795–£995 from [pricing](../commercial/pricing.md). A £3,000 offer would be out of proportion to everything else in their client's exit budget.
+**This channel sells onboarding plus membership**, at the entry prices in [pricing](../commercial/pricing.md). A £3,000 family offer would be out of proportion to everything else in their client's exit budget — though it exists for the client who asks.
 
 **The price anchor is unusually favourable.** Their client has just paid £1,000–£1,500 to have the financial side of the move handled properly. A comparable fee to have the medical side handled lands in the same mental category — *things I pay for to leave the UK properly* — rather than being weighed against a £399 records pack.
 

@@ -78,13 +78,13 @@ It is yours. Export it whenever you like, in a form that does not require us to 
 
 ---
 
-## 6. And then we keep it
+## 6. And then we handle what comes next
 
-A history is accurate on the day it is finished and starts decaying immediately. Every new appointment, result and letter belongs in it.
+A history is accurate on the day it is finished and starts decaying immediately — and most histories contain things that still need doing.
 
-If you keep the record current with us, you send us what happens next and we do the rest — including keeping track of the unfinished items until something closes them.
+Membership is both halves of that. You send us what happens and we keep the record true. And when something needs doing — the test that was never booked, the specialist you have been meaning to see, a check-up in a country you moved to last year — we research where, book it, prepare your history for the appointment, and bring the results home. The unfinished items stay tracked until something actually closes them.
 
-**[Keeping it current →]**
+**[Membership →]**
 
 ---
 

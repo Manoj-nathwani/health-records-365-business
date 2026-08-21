@@ -17,7 +17,9 @@ status: todo
 - The completeness caveat: we pursue every source we can identify, and cannot guarantee a record we were never able to obtain exists or does not
 - Limitation of liability — see [liability](./liability.md)
 - Cancellation, refund and what happens to the customer's records afterwards
-- Renewal terms for [ongoing management](../commercial/layers.md)
+- Renewal terms for [membership](../commercial/layers.md)
+- **The navigation scope**: we research, book and prepare on the customer's instruction; we do not select care clinically, and a booking made at their request is their decision. The line between arranging and advising needs drafting with care
+- **The emergency exclusion**, stated contractually: no crisis response, no urgent-care obligations, no liability for outcomes of delay — members must hold their own emergency cover
 
 ## What the privacy notice must cover
 

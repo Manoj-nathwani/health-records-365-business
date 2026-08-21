@@ -32,9 +32,9 @@ They find out it matters at the first appointment in the new country, when a doc
 
 ## What we do for them
 
-We request their records from every provider who holds them, reconstruct what actually happened, identify what was left unfinished, and keep it current as they receive care abroad.
+We request their records from every provider who holds them, reconstruct what actually happened, and identify what was left unfinished. Then we keep handling it: the record stays current as they receive care abroad, and when they need to be seen — a check-up, a specialist, the test that was never done — we research the facilities where they are, book the appointment, and prepare their history so the clinician takes it seriously.
 
-They end up with a medical history a doctor in any country can read in ten minutes.
+We never diagnose, and we take no commission from any provider we send them to.
 
 **[What they receive →]** **[How we do it →]**
 

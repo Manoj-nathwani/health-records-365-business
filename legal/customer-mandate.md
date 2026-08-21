@@ -22,7 +22,9 @@ status: todo
 
 ## The design question
 
-A one-off authority is simpler to obtain but breaks product 2. A standing authority supports [continuous stewardship](../product/stewardship-system.md) but is a harder thing to ask someone to sign, and a harder thing for a provider to accept. Resolve this before the first cohort.
+A one-off authority is simpler to obtain but breaks membership. A standing authority supports [continuous stewardship](../product/stewardship-system.md) but is a harder thing to ask someone to sign, and a harder thing for a provider to accept. Resolve this before the first cohort.
+
+The [office identity](../strategy/identity.md) settles the direction: membership means requesting records and **making bookings on the customer's behalf indefinitely**, so the mandate is standing by design — and must cover arranging appointments as well as requesting records, which may be two different authorities in a provider's eyes.
 
 ## Related
 

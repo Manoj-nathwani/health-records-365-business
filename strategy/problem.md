@@ -66,9 +66,9 @@ Four failure modes:
 1. **Continuity failures** — follow-ups, referrals or planned tests disappear between encounters.
 2. **Unresolved clinical history** — diagnoses are suspected, contradicted or left uncertain without the record clearly showing where things ended.
 3. **Longitudinal blindness** — repeated findings across years, laboratories or providers are not viewed together.
-4. **Patient-as-coordinator** — the patient has to remember what happened, chase records, explain contradictions and reconstruct their own history every time care changes.
+4. **Patient-as-coordinator** — the patient has to remember what happened, chase records, explain contradictions, reconstruct their own history and organise their own access every time care changes.
 
-This is the problem Health Records 365 is designed to own.
+This is the problem Health Records 365 is designed to own — modes 1 and 2 through [the open-loop lifecycle](../product/open-loops.md), mode 3 through the reconstruction itself, and mode 4 through [navigation](../product/navigation.md).
 
 ## Related
 
