@@ -5,6 +5,7 @@
 _site/
 .jekyll-cache/
 .jekyll-metadata
+.sass-cache/
 
 # OpenKnowledge regenerates its built-in project skill on every open, and
 # different app builds version-stamp it differently. It is a per-machine
@@ -15,3 +16,22 @@ _site/
 .github/skills/open-knowledge/
 .opencode/skills/open-knowledge/
 .pi/skills/open-knowledge/
+
+# Editor and MCP wiring, regenerated per machine when OpenKnowledge opens the
+# project. `ok init` writes these locally, so they are noise in git rather
+# than something a clone needs. Previously excluded only via .git/info/exclude,
+# which does not survive a clone — kept here so the intent travels with the repo.
+.mcp.json
+.cursor/mcp.json
+.codex/config.toml
+opencode.json
+.opencode/opencode.json
+.pi/extensions/open-knowledge.ts
+.claude/launch.json
+.claude/settings.local.json
+
+# OpenKnowledge runtime state and project config. Per-folder metadata
+# (`<folder>/.ok/frontmatter.yml`, `<folder>/.ok/templates/`) IS knowledge-base
+# content and stays tracked — only the root `.ok/` is local.
+/.ok/
+.okignore
