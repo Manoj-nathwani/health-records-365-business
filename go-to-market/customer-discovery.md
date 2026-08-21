@@ -22,6 +22,7 @@ status: todo
 - Whether they would recognise an [unresolved thread](../product/open-loops.md) as valuable or alarming
 - Willingness to **delegate** rather than self-serve — the trait most easily missed in [targeting](../market/target-customer.md)
 - Reaction to price, asked after value rather than before
+- **Informally: would they want us to arrange the care too** — find the facility, make the booking? Not an offer, just a signal to log. If enough customers ask for it unprompted, it earns a place; until then it stays a conversation
 
 ## Method note
 
