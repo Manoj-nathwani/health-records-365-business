@@ -18,11 +18,12 @@ Sources: [Competitive Research](../Inbox/health-records-365-competitive-research
 | | Price tests |
 | --- | ---: |
 | **Onboarding** — build the record | £795 / £995 / £1,495 |
-| **Membership** — record current + [episodes handled](./layers.md) | £795 / £995 / £1,295 a year |
-| **Premium** — family, multi-country, high-touch, [clinical review](../product/record-review.md) | £1,500–£3,000+ a year |
+| **Membership** — record current, threads tracked, [the plan](../product/navigation.md), handovers prepared | £795 / £995 a year |
+| **Care arranging** — per [episode](./layers.md): research, booking, scripting, outcome chase | £150 / £250 / £395 per episode |
+| **Premium** — family, multi-country, arranging included, [clinical review](../product/record-review.md) | £1,500–£3,000+ a year |
 | **Single preparation** (non-members) | Per engagement, undecided |
 
-Membership now includes [navigation](../product/navigation.md), which supports the upper end of its range — an annual fee that includes planning, booking and preparing real episodes of care is a materially heavier service than record upkeep alone.
+Per-episode arranging prices the unbounded thing directly — the membership fee no longer has to absorb an unknown number of episodes, and the £150–£395 test range is a first guess to be corrected by the first real errands.
 
 ## The anchors
 

@@ -45,7 +45,6 @@ not:
 
 - **Storage.** A folder of PDFs is the raw material, not the product
 - **Diagnosis.** We never say what a finding means or what should be done about it clinically — [the boundary](../trust/regulatory-boundary.md). Clinical judgement, where wanted, comes from [a partner GP under their own registration](../product/record-review.md)
-- **Emergency assistance.** Planned and semi-planned care only — see [what we are not](./what-we-are-not.md)
 
 ## Related
 

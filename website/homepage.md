@@ -49,13 +49,17 @@ We request your records from every provider who holds them — NHS, private, ove
 
 **From £995, once · [More →]**
 
-### Then, membership: your healthcare, handled
+### Then, membership: your record and your plan, managed
 
-The record kept current as care happens. Unfinished threads — the test never done, the referral without an outcome — tracked until they close. And when you need to be seen, we plan it and arrange it: the right facility wherever you are, researched and booked, with your history prepared so the clinician takes it seriously in the first ten minutes.
-
-We take nothing from any provider we send you to.
+The record kept current as care happens. Unfinished threads — the test never done, the referral without an outcome — tracked until they close. A clear plan for what is next, and your history prepared before every appointment so the clinician takes it seriously in the first ten minutes.
 
 **£795 a year · [More →]**
+
+### And when you want it handled, we arrange it
+
+The right facility researched wherever you are, the appointment booked, the visit prepared, the results chased home — per episode, whenever you want the legwork done rather than described. We take nothing from any provider we send you to.
+
+**From £150 per episode · [More →]**
 
 ### For families and complex lives
 
@@ -114,7 +118,7 @@ A readable history of what has happened to you, organised so a doctor can use it
 
 ## What we do not do
 
-We do not diagnose, recommend treatment, or tell you which tests to have. We are not a replacement for a doctor, we do not give medical advice, and we are not an emergency service — we plan and arrange care, we do not respond to crises.
+We do not diagnose, recommend treatment, or tell you which tests to have. We are not a replacement for a doctor and we do not give medical advice.
 
 We organise the record, show you what it says — including what was left unfinished — and handle the logistics of getting seen. What anything means, and what to do about it, is between you and a clinician.
 

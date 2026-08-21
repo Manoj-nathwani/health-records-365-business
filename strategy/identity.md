@@ -37,8 +37,8 @@ Eight things hold whatever else changes, and the identity is built from them:
 | Layer | Face |
 | --- | --- |
 | The record | Foundation — built at onboarding |
-| Stewardship | The [membership](../commercial/layers.md) |
-| [Navigation](../product/navigation.md) | The sell — [episodes of care](../product/navigation.md), planned and arranged |
+| Stewardship | The [membership](../commercial/layers.md) — record, threads, the plan, the handovers |
+| [Navigation](../product/navigation.md) | The sell — the plan is core, [arranging is bought per episode](../commercial/layers.md) |
 | [Partnered clinical](../product/record-review.md) | The ceiling-raiser |
 
 **The customer's real question selects it:** *"I left the system that nominally owned my care — who owns it now?"* No single layer answers that; the office does.
@@ -58,8 +58,6 @@ The [pitch-framing test](../go-to-market/sales-motion.md) and [the Sojourner's q
 ## Tensions held deliberately
 
 **The name.** *Health Records 365* names the foundation layer; the constraining word is "Records", while "365" fits year-round handling well. A records-name carries trust (*we are the record people, not a clinic*) and renaming is expensive. **Parked; reopens if** prospects repeatedly mis-categorise us as a document service.
-
-**The emergency boundary is identity-level.** A "medical office" invites 3am calls. **Planned and semi-planned care only** — stated in [principles](./principles.md), [what we are not](./what-we-are-not.md), and everywhere the service is described publicly.
 
 [**Not a Medical Family Office, precisely.** We take that world's architecture — one accountable office — not its scope: no staff physicians, no five-figure retainer, no medicine.](../market/missing-middle.md)
 

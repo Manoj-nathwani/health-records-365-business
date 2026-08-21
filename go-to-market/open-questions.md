@@ -34,8 +34,8 @@ Questions to answer by delivering, not by analysing. Where a belief already has 
 ## The office identity
 
 - Which element of the pitch closes — the record, the handling, or the pair? A consistent record-only pattern is [a reversal signal](../strategy/identity.md)
-- How many episodes of care does a member actually generate a year — and does the £795 membership survive that number? See [labour economics](./labour-economics.md)
-- Will customers let us book on their behalf, or do they want the research and prefer to book themselves?
+- How often do members buy [arranging](../product/navigation.md), and at what per-episode price does it feel fair? The take-rate decides whether "arranging included" becomes the premium tier's content
+- Do members want the booking made for them, or the research handed over — and does that split by age?
 - Does the [handover pack](../product/navigation.md) actually change how clinicians treat the customer — the "taken seriously" bar, tested in real appointments
 
 ## The recurring relationship

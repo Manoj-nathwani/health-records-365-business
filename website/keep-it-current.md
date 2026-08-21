@@ -1,6 +1,6 @@
 ---
 title: Membership — page copy
-description: "Draft copy for the membership product: record current, episodes planned and arranged, handovers prepared."
+description: "Draft copy for the membership product: record current, threads tracked, the plan, handovers — with arranging per episode."
 tags:
   - website
   - copy
@@ -40,16 +40,9 @@ Forward us a letter, a result, an app screenshot, a photograph of a discharge su
 
 The referral with no outcome. The test recommended and never booked. The reading that was abnormal once and never repeated. These stay open on your record until something actually closes them — not until everyone forgets.
 
-### Your next episode of care, planned and arranged
+### A plan for what is next
 
-When something needs doing — a check-up, a specialist, a procedure, the tests you have been meaning to get — we do the legwork:
-
-- **Research the options** where you are: which facilities, what they cost, what the trade-offs are
-- **Sequence it properly** — what has to happen before what, informed by your actual record
-- **Book it**, and handle the back-and-forth with the provider
-- **Prepare you for the room**: what to ask for, what to bring, what to get in writing before you leave
-
-We take nothing from any provider we recommend. No commissions, no partner fees, no kickbacks — the advice has nothing behind it but your interest.
+For everything unfinished or due: what the record shows, what closing it would involve, and what to raise with which clinician — sequenced properly, because what has to happen before what is something your record knows and a booking site does not.
 
 ### Your history, prepared to be taken seriously
 
@@ -63,9 +56,15 @@ The results, the letter, the plan — back into your record, connected, done. Th
 
 ---
 
-## What membership is not
+## When you want it handled, not just planned
 
-**Not an emergency service.** No 24/7 line, no crisis response, no evacuation — planned and semi-planned care only. In an emergency, you need local emergency services and your insurer's assistance line, and nothing we do replaces either.
+Sometimes you want the plan and you will make the calls yourself. Sometimes you want it done.
+
+**Care arranging is there when you want it, priced per episode:** we research the facilities where you are, compare the options, make the booking, handle the back-and-forth, and prepare you for the room — what to ask for, what to bring, what to get in writing before you leave. Afterwards, we chase the results home.
+
+We take nothing from any provider we recommend. No commissions, no partner fees — the advice has nothing behind it but your interest.
+
+## What membership is not
 
 **Not medical advice.** We plan the logistics and prepare the information. What anything means, and whether to act on it, is between you and a clinician.
 
@@ -82,4 +81,5 @@ We would rather you left with your records than stayed because you could not.
 ## Notes
 
 - Confirm £795 — membership now includes navigation, which supports [the upper test points](../commercial/pricing.md).
-- The independence paragraph and the emergency exclusion are identity-level commitments — see [principles](../strategy/principles.md) — and survive any edit.
+- The independence paragraph is an identity-level commitment — see [principles](../strategy/principles.md) — and survives any edit.
+- Arranging prices per episode — test range in [pricing](../commercial/pricing.md).

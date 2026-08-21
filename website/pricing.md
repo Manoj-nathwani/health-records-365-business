@@ -39,17 +39,23 @@ Where every membership starts — nobody can plan your care without knowing your
 
 ### £795 a year
 
-Your healthcare, handled:
+Your record and your plan, managed:
 
 - Everything you send us, added and connected; promised results chased
 - Unfinished threads tracked until something actually closes them
-- Your episodes of care planned and arranged — facilities researched wherever you are, appointments booked, the words to say prepared
+- A plan for what is next — what is due, what is lingering, what to raise with which clinician, in what order
 - Your history prepared for every appointment, so the clinician takes it seriously in ten minutes
 - Outcomes brought back into the record afterwards
 
-**We take nothing from any provider we recommend.** No commissions, no partner fees — the advice has nothing behind it but your interest.
-
 Stop whenever you like and keep everything, in a format that does not need us.
+
+## Care arranging
+
+### From £150 per episode
+
+When you want something done, not just planned: we research the facilities where you are, compare the options, make the booking, handle the back-and-forth, prepare you for the room, and chase the results home.
+
+**We take nothing from any provider we recommend.** No commissions, no partner fees — the advice has nothing behind it but your interest.
 
 ---
 

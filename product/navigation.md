@@ -81,11 +81,22 @@ What earns that:
 
 A pack the clinician takes seriously changes the appointment itself: the customer stops being an unreliable narrator of their own history and starts being a well-documented patient. That is a large part of what the fee buys.
 
-## Where it sits commercially
+## The plan is core; the errand is optional
 
-This fills out [product 3](../commercial/layers.md) — "prepare it for care" grows into **prepare and navigate**: the pack, plus the research, itinerary, scripts and bookings around it. Bundled into the annual tier for ongoing customers; the strongest content of the [premium tier](../commercial/pricing.md), where a full multi-city care itinerary justifies four figures.
+Navigation splits along one line, and the line decides what membership includes:
 
-Provider research is transactional — prices and availability are **re-checked at the point of booking, never kept** — so navigation is delivered fresh each time rather than from a directory that rots.
+| | What it is | How it is sold |
+| --- | --- | --- |
+| **The plan** | What is lingering, what closing each item would involve, what to raise and with whom — plus the handover pack for any appointment | **Core membership.** It is the record speaking, and it costs little beyond the record itself |
+| **The errand** | Researching facilities where the customer is, making the booking, handling the back-and-forth, scripting the visit | **Optional, per episode.** Real hours, wanted by some members often and by others never |
+
+The split prices the unbounded thing: a member who arranges everything themselves pays membership; a member who wants it handled pays per episode handled. Nobody subsidises anybody, and "can you also…" gets a price instead of a boundary.
+
+**The pitch still leads with the full capability.** *We can arrange everything, wherever you are* sells; the pricing page is where it becomes per-episode. Capability sells, usage pays.
+
+[Premium and family membership](../commercial/layers.md) can include arranging — once real episode frequency is known, "arranging included" is the natural content of the top tier.
+
+Provider research is transactional — prices and availability are **re-checked at the point of booking, never kept** — so arranging is delivered fresh each time rather than from a directory that rots.
 
 ## Boundaries
 

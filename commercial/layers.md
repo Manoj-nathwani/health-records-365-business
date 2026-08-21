@@ -16,8 +16,9 @@ A membership model, shaped like the [medical family offices](../market/competito
 | | What it is | Revenue shape |
 | --- | --- | --- |
 | **Onboarding — build the record** | The complete history, reconstructed — because nothing else works without it. *"We cannot plan your care without knowing your history"* | One-off |
-| **Membership — the office** | The record kept current · [open threads tracked](../product/open-loops.md) · [episodes of care planned and arranged](../product/navigation.md) · handovers prepared for every appointment | Annual — the core product |
-| **Premium — family and high-touch** | Multiple family members, multi-country complexity, more active support, [partnered clinical review](../product/record-review.md) | Annual, higher tier |
+| **Membership — the office** | The record kept current · [open threads tracked](../product/open-loops.md) · [the plan for what is next](../product/navigation.md) · handovers prepared for every appointment | Annual — the core product |
+| **Care arranging** | [The errand](../product/navigation.md): facilities researched where the member is, bookings made, visits scripted, outcomes chased home | **Optional, per episode** — capability sells, usage pays |
+| **Premium — family and high-touch** | Multiple family members, multi-country complexity, arranging included, [partnered clinical review](../product/record-review.md) | Annual, higher tier |
 
 **Preparation for a single appointment is available to non-members**, priced per engagement — it is also how a non-member discovers what membership is.
 
@@ -29,7 +30,7 @@ Selling the record as the product invites comparison with [a £399 one-off](../m
 
 ## The unit of work: the episode of care
 
-Membership is delivered episode by episode. An episode opens (a nudge acted on, an appointment needed, a move), gets [planned, booked and scripted](../product/navigation.md), happens at a real facility, and closes when its outcomes are home in the record. **A membership year is the record kept true plus the episodes handled inside it.**
+Everything above the record is delivered episode by episode. An episode opens (a nudge acted on, an appointment needed, a move), happens at a real facility, and closes when its outcomes are home in the record. Membership carries every episode's *plan, preparation and return*; [arranging](../product/navigation.md) the middle — research, booking, scripting — is bought per episode by members who want it handled.
 
 ## Entry points
 

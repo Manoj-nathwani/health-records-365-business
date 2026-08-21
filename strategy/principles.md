@@ -19,7 +19,7 @@ These are standing decisions. Changing one should be a deliberate act, not a dri
 
 **Independence.** No commission, referral fee or kickback from any provider we recommend or book. The moment a recommendation earns us money from the provider, it stops being information.
 
-**Planned care only.** No emergencies, no 24/7 line, no evacuation — that is a different industry with different economics, and we say so wherever the service is described.
+**The plan is core; the errand is optional.** What is lingering and what is worth looking into comes free out of the record — it is the record speaking. [Arranging the care](../product/navigation.md) is a service bought per episode, by those who want it.
 
 **Many entry points.** Sell to the customer's current situation. See [customer triggers](../market/triggers.md).
 

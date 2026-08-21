@@ -24,7 +24,7 @@ Health Records 365 is not:
 - a traditional telemedicine provider
 - a one-country patient portal
 - a self-service note-taking app
-- **an emergency or medical-assistance service** — no 24/7 line, no evacuation, no crisis response. Planned and semi-planned care only; emergencies are the insurers' assistance arms and firms like International SOS
+- an emergency or medical-assistance service
 - **a Medical Family Office** — we take that world's architecture (one accountable office for a person's healthcare) but not its scope: no staff physicians, no five-figure retainer, and never the medicine itself
 
 The goal is not to make customers administer their own medical database — nor to become their doctor.
